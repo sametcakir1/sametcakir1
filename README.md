@@ -1,6 +1,6 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Oracle sql**
+- 🌱 I’m currently learning **Oracle Apex **
 
 - 📫 How to reach me **sametttckr@gmail.com**
 
